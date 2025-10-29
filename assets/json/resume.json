@@ -1,36 +1,29 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jeffrey Xing",
+    "label": "Ph.D. Candidate @ Gentner Lab, UCSD",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "j8xing@ucsd.edu",
+    "phone": "(909)569-2507",
+    "url": "https://xingjeffrey.github.io",
+    "summary": "Experimental psychology researcher studying how people/songbirds perceive emotional expressions in vocal communication over time. ",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Jeffrey Xing",
+        "url": "https://www.linkedin.com/in/jeffrey-xing-785301183/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Gentner Lab / Auditory Neuroscience Laboratory, University of California San Diego",
+      "position": "Graduate Student Researcher",
+      "url": "https://gentnerlab.ucsd.edu/",
+      "startDate": "2022-10",
+      "endDate": "~",
+      "summary": "Conduct behavioral and neuroimaging studies on how people perceive emotional valence changes over time when listening to others speak naturally. Design studies that examine medical student empathy. Build acoustic and machine learning analyses of birdsong. Assess preference of songbirds to songs with different acoustic statistics. ",
+      "highlights": ["Speech Emotion", "Real-time Perception", "Semantics", "Emotional Prosody", "MEG", "MRI", "Physician Empathy", "Compassion", "Acoustic Analysis", "Machine Learning", "Sound Preference", "Animal Behavior"]
     }
   ],
   "volunteer": [
