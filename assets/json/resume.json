@@ -246,27 +246,99 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Quantitative Research",
+      "level": "Ph.D.",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Psychoacoustics",
+        "Behavioral Testing",
+        "Psychometrics",
+        "Brain Imaging",
+        "Computational Neuroscience",
+        "Animal Behavior"
+      ]
+    },
+    {
+      "name": "Qualitative Research",
+      "level": "Ph.D.",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Surveys",
+        "Open-response Questions",
+        "Video Observations",
+        "Focus group (In-progress)"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Ph.D.",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "R"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "level": "Ph.D.",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "General Linear Modeling",
+        "Nonparametric Statistics",
+        "Time-series Analyses",
+        "Reliability Analyses",
+        "Machine-Learning"
+      ]
+    },
+    {
+      "name": "Audio Engineering",
+      "level": "B.A.",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Psychoacoustics",
+        "Digital Audio Workstations",
+        "Contemporary Music Composition",
+        "Music Production",
+        "Sound Synthesis",
+        "Sound Effect",
+        "Recording Studio Setup",
+        "Live-Mixing",
+        "Mixing/Mastering"
+      ]
+    },
+    {
+      "name": "Hardware Prototyping",
+      "level": "Ph.D.",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Arduino",
+        "RaspberryPi",
+        "Autodesk Fusion 360",
+        "Circuit Board Assembly",
+        "3D Printing"
+      ]
+    },
+    {
+      "name": "Science Communication",
+      "level": "Ph.D.",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Data Visualization",
+        "Contextualizing Pain-Point",
+        "Crafting Perceiver Narrative",
+        "Audience-specific presentation framing",
+        "Scientific Collaborations"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Chinese",
       "fluency": "Fluent",
       "icon": ""
     }
