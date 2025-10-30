@@ -121,12 +121,89 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Graduate Research Fellowship (NSF GRFP)",
+      "date": "2024-04-01",
+      "awarder": "National Science Foundation",
+      "url": "https://www.nsf.gov/",
+      "summary": "The NSF GRFP recognizes outstanding graduate students who demonstrate the potential to make significant contributions in STEM."
+    },
+    {
+      "title": "Norman Henry Anderson Fellowship",
+      "date": "2022-02-01",
+      "awarder": "Department of Psychology, UCSD",
+      "url": "https://psychology.ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "Norman Henry Anderson Fellowship",
+      "date": "2022-02-01",
+      "awarder": "Department of Psychology, UCSD",
+      "url": "https://psychology.ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "Norman Henry Anderson Honors Thesis Award",
+      "date": "2022-06-01",
+      "awarder": "Department of Psychology, UCSD",
+      "url": "https://psychology.ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "Distinguished Undergraduate Scholar",
+      "date": "2022-02-01",
+      "awarder": "Department of Psychology, UCSD",
+      "url": "https://psychology.ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "Richard L. and Fern W. Erion and Laidlaw-Erion Scholarship",
+      "date": "2020-10-01",
+      "awarder": "University of California San Diego",
+      "url": "https://ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "William Stout Scholarship",
+      "date": "2021-10-01",
+      "awarder": "University of California San Diego",
+      "url": "https://ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "Academic Enrichment Program Summer Research Scholarship",
+      "date": "2021-06-01",
+      "awarder": "University of California San Diego",
+      "url": "https://ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "Research Preseverance During COVID Award",
+      "date": "2021-05-01",
+      "awarder": "University of California San Diego",
+      "url": "https://ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "Halıcıoğlu Data Science Institute Undergraduate Scholarship",
+      "date": "2021-10-01",
+      "awarder": "Halıcıoğlu Data Science Institute, UCSD",
+      "url": "https://ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "Diana C. Miles Scholarship",
+      "date": "2020-10-01",
+      "awarder": "University of California San Diego",
+      "url": "https://ucsd.edu/",
+      "summary": ""
+    },
+    {
+      "title": "UC San Diego Provost Honors",
+      "date": "2018-10-01",
+      "awarder": "University of California San Diego",
+      "url": "https://ucsd.edu/",
+      "summary": ""
+    },
   ],
   "certificates": [
     {
