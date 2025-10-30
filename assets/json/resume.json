@@ -274,6 +274,7 @@
       "level": "Ph.D.",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
+        "Linux",
         "Python",
         "R"
       ]
@@ -303,7 +304,8 @@
         "Sound Effect",
         "Recording Studio Setup",
         "Live-Mixing",
-        "Mixing/Mastering"
+        "Mixing/Mastering",
+        "3D/Biaural Audio"
       ]
     },
     {
@@ -341,42 +343,94 @@
       "language": "Chinese",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Auditory Perception",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Predictive Coding",
+        "Habituation and Stimulus Recovery",
+        "Rhythmic Expressivity",
+        "Sound Complexity",
+        "Auditory Illusions",
+        "Spatial Audio"
+      ]
+    },
+    {
+      "name": "Emotion Perception",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Real-time Speech Emotion",
+        "Emotional Prosody",
+        "Emotional Semantics",
+        "Physician Empathy and Compassion"
+      ]
+    },
+    {
+      "name": "Behavioral Preference",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Sound Preference and Attraction",
+        "Incentive Salience"
+      ]
+    },
+    {
+      "name": "Neurobiology of Language",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Paralinguistic Perception",
+        "Linguistic Abstraction",
+        "Dynamical Systems Modeling"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "State Space Sequence Modeling",
+        "Speech Emotion Recognition",
+        "Topic/Semantic Modeling"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Dr. Timothy Q. Gentner",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor @ UCSD Psychology, Thesis Advisor"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Real-time Speech Emotion Perception",
+      "summary": "Mixed-methods research on how people perceive other people's emotions change while listening to them speak naturally.",
+      "highlights": ["Speech Emotion", "Emotional Prosody", "Emotional Semantics"],
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Assessing Medical Student Empathy",
+      "summary": "Mixed-methods research on how people perceive a physician's empathy as they interact with patients.",
+      "highlights": ["Physician Empathy", "Compassion"],
+      "startDate": "2025-10-01"
+    },
+    {
+      "name": "Cortical Neurodynamics of Speech Perception",
+      "summary": "Quantitative research on how the brain abstracts relevant speech content in natural communication.",
+      "highlights": ["Speech Emotion", "Emotional Prosody", "Emotional Semantics", "Linguistics", "Paralinguistics", "Computational Neuroscience"],
+      "startDate": "2025-09-01"
+    },
+    {
+      "name": "Preference for Predictability in Vocal Communication",
+      "summary": "Quantitative research on how songbirds direct preferences towards songs with varying predictability.",
+      "highlights": ["Songbirds", "Predictive Coding", "Machine-Learning", "Animal Behavior", "Sound Preference"],
+      "startDate": "2023-06-01"
     }
   ]
 }
