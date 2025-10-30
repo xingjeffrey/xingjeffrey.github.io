@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jeffrey Xing",
+    "label": "Ph.D. Candidate @ UCSD Psychology",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "j8xing@ucsd.edu",
+    "phone": "(909) 569-2507",
+    "url": "xingjeffrey.github.io",
+    "summary": "Researcher studying how people/songbirds perceive emotional expressions in vocal communications over time.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,39 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Gentner Lab / Auditory Neuroscience Laboratory, University of California San Diego",
+      "position": "Graduate Student Researcher",
+      "url": "https://gentnerlab.ucsd.edu/",
+      "startDate": "2022-10-01",
+      "summary": "Conduct behavioral and neuroimaging studies on how people perceive emotional valence changes over time when listening to others speak naturally. Design studies that examine medical student empathy. Build acoustic and machine learning analyses of birdsong. Assess preference of songbirds to songs with different acoustic statistics. ",
+      "highlights": ["Speech Emotion", "Real-time Perception", "Semantics", "Emotional Prosody", "MEG", "MRI", "Physician Empathy", "Compassion", "Acoustic Analysis", "Machine Learning", "Sound Preference", "Animal Behavior"]
+    },
+    {
+      "name": "Gentner Lab / Auditory Neuroscience Laboratory, University of California San Diego",
+      "position": "Undergraduate Research Assistant",
+      "url": "https://gentnerlab.ucsd.edu/",
+      "startDate": "2020-08-01",
+      "endDate": "2022-6-01",
+      "summary": "Annotated birdsong acoustic and analyzed them using information theoretic and rhythmic approaches. ",
+      "highlights": ["Birdsong", "Bioacoustics", "Information Theory", "Markov Models", "Rhythm Analysis"]
+    },
+    {
+      "name": "Department of Music, University of California San Diego",
+      "position": "Recording Assistant",
+      "url": "https://music.ucsd.edu/",
+      "startDate": "2019-10-01",
+      "endDate": "2022-6-01",
+      "summary": "Produced concert recordings for archival and contemporary music research. ",
+      "highlights": ["Audio Engineering", "Studio Recording", "Audio Hardware", "Live-Mixing"]
+    },
+    {
+      "name": "Department of Music, University of California San Diego",
+      "position": "Stage Crew",
+      "url": "https://music.ucsd.edu/",
+      "startDate": "2019-10-01",
+      "endDate": "2022-6-01",
+      "summary": "Assisted concert technical setups.",
+      "highlights": ["Audio Engineering", "Audio Hardware"]
     }
   ],
   "volunteer": [
