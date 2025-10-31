@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>j8xing@ucsd.edu</p>
-    <p>(909)569-2507</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -33,3 +31,5 @@ Currently a Ph.D. candidate at [UCSD Psychology](https://psychology.ucsd.edu/). 
 Outside of work, I like to cook, bake, and [writing](https://foodiepostcards.com/) about food in general. 
 
 <i class="ai ai-google-scholar-square ai-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=6aJj1lgAAAAJ&hl=en&oi=ao)
+<i class="fa-brands fa-square-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jeffrey-xing-785301183/)
+<i class="fa-solid fa-envelope"></i> j8xing@ucsd.edu
