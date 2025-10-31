@@ -30,8 +30,4 @@ Currently a Ph.D. candidate at [UCSD Psychology](https://psychology.ucsd.edu/). 
 
 Outside of work, I like to cook, bake, and [writing](https://foodiepostcards.com/) about food in general. 
 
-<i class="ai ai-google-scholar-square ai-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=6aJj1lgAAAAJ&hl=en&oi=ao)
-
-<i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jeffrey-xing-785301183/)
-
-<i class="fa-solid fa-envelope"></i> j8xing@ucsd.edu
+<i class="ai ai-google-scholar-square ai-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=6aJj1lgAAAAJ&hl=en&oi=ao) <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/jeffrey-xing-785301183/) <i class="fa-solid fa-envelope"></i> j8xing@ucsd.edu
